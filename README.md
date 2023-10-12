@@ -1,0 +1,2 @@
+# uvodDoGitu
+uvodGIT
